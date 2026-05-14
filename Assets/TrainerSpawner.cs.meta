@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e92483b0dc42d954988ae68bfce01723
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trainerPrefab: {fileID: 3755630094874643252, guid: 70d5617ffb5f01c4ea73a2e28265395e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
